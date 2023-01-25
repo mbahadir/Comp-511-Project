@@ -1,0 +1,76 @@
+nohup: ignoring input
+cuda:1
+Using cache found in /home/bahadir/.cache/torch/hub/facebookresearch_dino_main
+Image dir: 684, Image labels: 684
+Image dir: 34, Image labels: 34
+Image dir: 703, Image labels: 703
+Epoch: 1, Train loss: 0.751, Train accuracy: 0.759, Val loss: 0.347, Val accuracy: 0.794
+Epoch: 2, Train loss: 0.289, Train accuracy: 0.889, Val loss: 0.263, Val accuracy: 0.794
+Epoch: 3, Train loss: 0.236, Train accuracy: 0.911, Val loss: 0.418, Val accuracy: 0.853
+Epoch: 4, Train loss: 0.165, Train accuracy: 0.940, Val loss: 0.203, Val accuracy: 0.824
+Epoch: 5, Train loss: 0.148, Train accuracy: 0.944, Val loss: 0.803, Val accuracy: 0.882
+Epoch: 6, Train loss: 0.117, Train accuracy: 0.956, Val loss: 0.817, Val accuracy: 0.824
+Epoch: 7, Train loss: 0.122, Train accuracy: 0.953, Val loss: 0.274, Val accuracy: 0.882
+Epoch: 8, Train loss: 0.092, Train accuracy: 0.972, Val loss: 0.166, Val accuracy: 0.882
+Epoch: 9, Train loss: 0.076, Train accuracy: 0.977, Val loss: 0.201, Val accuracy: 0.912
+Epoch: 10, Train loss: 0.073, Train accuracy: 0.980, Val loss: 0.080, Val accuracy: 0.941
+Epoch: 11, Train loss: 0.052, Train accuracy: 0.988, Val loss: 0.097, Val accuracy: 0.882
+Epoch: 12, Train loss: 0.044, Train accuracy: 0.988, Val loss: 0.092, Val accuracy: 0.941
+Epoch: 13, Train loss: 0.061, Train accuracy: 0.982, Val loss: 0.134, Val accuracy: 0.912
+Epoch: 14, Train loss: 0.090, Train accuracy: 0.969, Val loss: 0.246, Val accuracy: 0.882
+Epoch: 15, Train loss: 0.062, Train accuracy: 0.978, Val loss: 0.210, Val accuracy: 0.882
+Epoch: 16, Train loss: 0.037, Train accuracy: 0.993, Val loss: 0.132, Val accuracy: 0.882
+Epoch: 17, Train loss: 0.025, Train accuracy: 0.997, Val loss: 0.118, Val accuracy: 0.853
+Epoch: 18, Train loss: 0.022, Train accuracy: 0.996, Val loss: 0.241, Val accuracy: 0.912
+Epoch: 19, Train loss: 0.027, Train accuracy: 0.999, Val loss: 0.104, Val accuracy: 0.912
+Epoch: 20, Train loss: 0.035, Train accuracy: 0.991, Val loss: 0.100, Val accuracy: 0.912
+Epoch: 21, Train loss: 0.033, Train accuracy: 0.990, Val loss: 0.172, Val accuracy: 0.882
+Epoch: 22, Train loss: 0.027, Train accuracy: 0.997, Val loss: 0.124, Val accuracy: 0.941
+Epoch: 23, Train loss: 0.017, Train accuracy: 0.999, Val loss: 0.066, Val accuracy: 0.941
+Epoch: 24, Train loss: 0.026, Train accuracy: 0.990, Val loss: 0.073, Val accuracy: 0.941
+Epoch: 25, Train loss: 0.020, Train accuracy: 0.999, Val loss: 0.071, Val accuracy: 0.941
+Epoch: 26, Train loss: 0.016, Train accuracy: 0.999, Val loss: 0.076, Val accuracy: 0.941
+Epoch: 27, Train loss: 0.019, Train accuracy: 0.997, Val loss: 0.142, Val accuracy: 0.941
+Epoch: 28, Train loss: 0.017, Train accuracy: 0.997, Val loss: 0.165, Val accuracy: 0.941
+Epoch: 29, Train loss: 0.019, Train accuracy: 0.996, Val loss: 0.145, Val accuracy: 0.941
+Epoch: 30, Train loss: 0.018, Train accuracy: 0.999, Val loss: 0.071, Val accuracy: 0.941
+Epoch: 31, Train loss: 0.017, Train accuracy: 1.000, Val loss: 0.102, Val accuracy: 0.941
+Epoch: 32, Train loss: 0.015, Train accuracy: 0.999, Val loss: 0.076, Val accuracy: 0.941
+Epoch: 33, Train loss: 0.015, Train accuracy: 1.000, Val loss: 0.077, Val accuracy: 0.941
+Epoch: 34, Train loss: 0.014, Train accuracy: 1.000, Val loss: 0.502, Val accuracy: 0.941
+Epoch: 35, Train loss: 0.014, Train accuracy: 0.999, Val loss: 0.079, Val accuracy: 0.941
+Epoch: 36, Train loss: 0.012, Train accuracy: 1.000, Val loss: 0.078, Val accuracy: 0.941
+Epoch: 37, Train loss: 0.015, Train accuracy: 0.999, Val loss: 0.078, Val accuracy: 0.941
+Epoch: 38, Train loss: 0.015, Train accuracy: 1.000, Val loss: 0.548, Val accuracy: 0.941
+Epoch: 39, Train loss: 0.012, Train accuracy: 0.999, Val loss: 0.505, Val accuracy: 0.941
+Epoch: 40, Train loss: 0.016, Train accuracy: 0.996, Val loss: 0.076, Val accuracy: 0.941
+Epoch: 41, Train loss: 0.012, Train accuracy: 1.000, Val loss: 0.098, Val accuracy: 0.941
+Epoch: 42, Train loss: 0.014, Train accuracy: 0.999, Val loss: 0.478, Val accuracy: 0.941
+Epoch: 43, Train loss: 0.016, Train accuracy: 1.000, Val loss: 0.076, Val accuracy: 0.941
+Epoch: 44, Train loss: 0.014, Train accuracy: 0.997, Val loss: 0.075, Val accuracy: 0.941
+Epoch: 45, Train loss: 0.011, Train accuracy: 1.000, Val loss: 0.447, Val accuracy: 0.941
+Epoch: 46, Train loss: 0.013, Train accuracy: 1.000, Val loss: 0.076, Val accuracy: 0.941
+Epoch: 47, Train loss: 0.011, Train accuracy: 1.000, Val loss: 0.077, Val accuracy: 0.941
+Epoch: 48, Train loss: 0.014, Train accuracy: 0.999, Val loss: 0.077, Val accuracy: 0.941
+Using cache found in /home/bahadir/.cache/torch/hub/facebookresearch_dino_main
+Test loss: 0.521, Test accuracy: 0.844
+Actuals        0    1   2   3   4
+Predictions                      
+0            177    0   0   0   0
+1              0  155   3   2   0
+2              0   20  86  17   1
+3              0    4  28  92  21
+4              1    0   0  13  83
+              precision    recall  f1-score   support
+
+           0      0.994     1.000     0.997       177
+           1      0.866     0.969     0.914       160
+           2      0.735     0.694     0.714       124
+           3      0.742     0.634     0.684       145
+           4      0.790     0.856     0.822        97
+
+    accuracy                          0.844       703
+   macro avg      0.826     0.830     0.826       703
+weighted avg      0.839     0.844     0.840       703
+
+Elapsed time: 2048.099
